@@ -9,3 +9,7 @@ The experiments are performed on two multimodal grasping dataset, including http
 # Train & Test
 
 Run the main_*.py files to train or test different models.
+
+# Supplementary Materials
+
+The detailed parameter settings of these models are provided in the "Supplementary materials.PDF"
